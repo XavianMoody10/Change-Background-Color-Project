@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#background-color {
+  height: 100vh;
+  background-color: Grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#background-color button {
+  border: 2px solid black;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  padding: 5px;
+  border-radius: 20px;
+}
